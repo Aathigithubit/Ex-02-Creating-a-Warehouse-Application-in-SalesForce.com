@@ -1,5 +1,6 @@
-# Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
-
+# Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
+## Name : AATHI.S
+## Reg NO : 212223220001
 ## AIM:
 To create a warehouse application in salesforce.com
 
@@ -32,8 +33,11 @@ In Salesforce we can create, manage and customise both applications according to
 ### Step 5: 
 After Next, define the fields for the custom app.
 •	App Label: Search Service.
+
 •	App Name: Search Service.
+
 •	Description: Search Service is one app where we manage all the business data and catalogues.
+
  ![ex2-5](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/e82870fd-7400-4bf6-9dfe-622df1825574)
 
 
@@ -43,32 +47,16 @@ Note: Before inserting an image for the logo you need to use the following proce
  
 ### Step 7: Select Console Option
 
-
 ![ex2-7](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/f4401b49-8fc7-418a-ae18-1ec61d115739)
 
-
-
 ### Step 8: Select a utility item
-
-
 ![ex2-8](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/9f6179b9-a990-4edc-87a1-f9a5ecdbec0c)
 
-
-
 ### Step 9: Select any of the user profiles. Then Click Save &Finish
-
-
 ![ex2-9](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/454ff962-a7a0-41c3-9cd0-0b3e638f117b)
 
- 
 ### Step 10: A new app will be created and displayed
-
-
-
 ![ex2-10](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/9be0d550-d6ad-434e-82bb-74f9c05bfd2f)
-
-
-
 
 ## RESULT:
 
